@@ -1,6 +1,6 @@
 # HR_Analytics
 
-## Presence Pulse: Unveiling HR Insights
+## _[Presence Pulse: Unveiling HR Insights](https://github.com/Pranav6818/HR_Analytics/blob/main/Hr%20Analytics.pdf)_
 
 ### This project gives you the overview of the presence and leave analytics of all the employees of AtliQ Hardware for 2022.
 

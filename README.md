@@ -33,4 +33,8 @@
 - **Presence % by Day of Week**
 
 - **Wfh % by Day of Week**
+
+## _[Link to Dashboard pdf](https://github.com/Pranav6818/HR_Analytics/blob/main/Hr%20Analytics.pdf)_
+
+## _[Link to Interactive Dashboard](https://www.novypro.com/project/presence-pulse-unveiling-hr-insights)_
   
